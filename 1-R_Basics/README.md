@@ -5,14 +5,14 @@ In this course, you will:<br>
 <li>Learn to write your own functions/sub-routines in R</li>
 </ul>
 <h3>Course overview</h3> <hr>
-<h4>Section 1: R Basics, Functions, Data types</h4><br>
+<h4>Section 1: R Basics, Functions, Data types</h4>
 You will get started with R, learn about its functions and data types.<br>
 <br>
-<h4>Section 2: Vectors, Sorting</h4><br>
+<h4>Section 2: Vectors, Sorting</h4>
 You will learn to operate on vectors and advanced functions such as sorting.<br>
 <br>
-<h4>Section 3: Indexing, Data Manipulation, Plots</h4><br>
+<h4>Section 3: Indexing, Data Manipulation, Plots</h4>
 You will learn to wrangle and visualize data.<br>
 <br>
-<h4>Section 4: Programming Basics</h4><br>
+<h4>Section 4: Programming Basics</h4>
 You will learn to use general programming features like ‘if-else’, and ‘for loop’ commands, and write your own functions to perform various operations on datasets.<br>
