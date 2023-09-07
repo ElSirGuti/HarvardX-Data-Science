@@ -1,5 +1,4 @@
 In this course, you will:<br>
-<br>
 <ul>
 <li>Learn to read, extract, and create datasets in R</li>
 <li>Learn to perform a variety of operations on datasets using R</li>
