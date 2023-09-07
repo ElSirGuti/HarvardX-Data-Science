@@ -26,3 +26,5 @@ han sido muy citadas y sus implementaciones de software ampliamente
 descargadas.<br>
 <br>
 Quiero darle las gracias a mi familia y a mi novia por apoyarme en el proceso de esta nueva etapa <3
+<br><br>
+Nota: No compartiré vídeos y contenido informativo del curso, solo subiré aquí las actividades que vaya realizando a medida que vaya progresando, todo el contenido se encuentra en la plataforma de edX de forma gratuita :)
