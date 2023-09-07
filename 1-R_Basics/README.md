@@ -4,7 +4,7 @@ In this course, you will:<br>
 <li>Learn to perform a variety of operations on datasets using R</li>
 <li>Learn to write your own functions/sub-routines in R</li>
 </ul>
-Course overview <hr><br>
+Course overview <hr>
 Section 1: R Basics, Functions, Data types<br>
 You will get started with R, learn about its functions and data types.<br>
 <br>
