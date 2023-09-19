@@ -20,3 +20,19 @@ heights * 2.54
 # medidas del promedio (suponiendo que es 69 pulgadas)
 heights - 69
 # >>> [1]  0 -7 -3  1  4 -2  4 -2  1
+
+# Si tenemos dos vectores del mismo tamaño estas operaciones son mas poderosas
+# a     e     a+e
+# b     f     b+f
+# c  +  g  =  c+g
+# d     h     d+h
+# Se va sumando entrada por entrada y lo mismo para otras operaciones
+
+# Esto implica que para computar la tasa de asesinatos, asesinatos por cada
+# 100,000 habitantes simplemente escribimos
+murder_rate <- (murders$total / murders$population) * 100000
+murder_rate
+# Con esto vemos que ya california no esta en el tope de nuestra lista
+murders$state[order(murder_rate,decreasing = TRUE)]
+# California esta fuera del top 10 y el que tiene la tasa de asesinatos
+# mas alta es District of Columbia
