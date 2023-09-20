@@ -4,7 +4,7 @@ La razón por la que me inscribí en este curso es para ampliar mis conocimiento
 <br><br>
 Índice de cursos del programa<br>
 1- Data Science: R Basics<br>
-Progreso: 40% Nota: 33%<br>
+Progreso: 44% Nota: 40%<br>
 2- Data Science: Visualization<br>
 Progreso: 0% Nota: 0%<br>
 3- Data Science: Probability<br>
