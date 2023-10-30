@@ -2,7 +2,7 @@
 Aqui voy a subir los scripts que realice en los cursos de Data Science de HarvardX en EdX.
 La razón por la que me inscribí en este curso es para ampliar mis conocimientos en cuanto a la carrera que me encuentro cursando actualmente que es Ingeniería en Computación y poder especializarme en un área en específico que en este caso es la ciencia de datos, campo el cual está experimentando un crecimiento cada vez mayor y por consecuente aumenta la demanda de desarrolladores especializados en este rubro.
 <br><br>
-<strong>Índice de cursos del programa<strong><br>
+<strong>Índice de cursos del programa</strong><br>
 1- Data Science: R Basics<br>
 <code>Progreso: 61% Nota: 66%</code><br>
 2- Data Science: Visualization<br>
