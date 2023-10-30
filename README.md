@@ -6,21 +6,21 @@ La razón por la que me inscribí en este curso es para ampliar mis conocimiento
 1- Data Science: R Basics<br>
 <code>Progreso: 61% Nota: 66%</code><br>
 2- Data Science: Visualization<br>
-Progreso: 0% Nota: 0%<br>
+<code>Progreso: 0% Nota: 0%</code><br>
 3- Data Science: Probability<br>
-Progreso: 0% Nota: 0%<br>
+<code>Progreso: 0% Nota: 0%</code><br>
 4- Data Science: Inference and Modeling<br>
-Progreso: 0% Nota: 0%<br>
+<code>Progreso: 0% Nota: 0%</code><br>
 5- Data Science: Productivity Tools<br>
-Progreso: 0% Nota: 0%<br>
+<code>Progreso: 0% Nota: 0%</code><br>
 6- Data Science: Wrangling<br>
-Progreso: 0% Nota: 0%<br>
+<code>Progreso: 0% Nota: 0%</code><br>
 7- Data Science: Linear Regression<br>
-Progreso: 0% Nota: 0%<br>
+<code>Progreso: 0% Nota: 0%</code><br>
 8- Data Science: Machine Learning<br>
-Progreso: 0% Nota: 0%<br>
+<code>Progreso: 0% Nota: 0%</code><br>
 9- Data Science: Capstone<br>
-Progreso: 0% Nota: 0%<br>
+<code>Progreso: 0% Nota: 0%</code><br>
 <br>
 Instructor: Rafael Irizarry<br>
 Rafael Irizarry es profesor de Bioestadística en la Universidad Harvard T.H. Chan
